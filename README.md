@@ -40,10 +40,14 @@ This repository captures one full knowledge-gap exercise: from a technical quest
 ## External links DAY !
 
 - X thread: https://x.com/GemechisWorku/status/2051746703221367094
-- Medium article: https://medium.com/@game.worku/prefill-vs-decode-profiling-causal-llm-inference-in-practice-e3b32f4c7bdc
+- Medium article: https://medium.com/@gemechisw/prefill-vs-decode-profiling-causal-llm-inference-in-practice-e3b32f4c7bdc
 - Week 10 project repo: https://github.com/gemechisworku/conversion-engine
 - Specific implementation commit: https://github.com/gemechisworku/conversion-engine/commit/d22003e02359ce8b4c77b793363e6ed2cf12fc78
 
 ## External links DAY 2
-- Medium article: https://medium.com/@game.worku/commit-points-idempotency-and-retry-safe-side-effects-in-orchestrated-agent-workflows-f54b3d3909e0
+- Medium article: https://medium.com/@gemechisw/commit-points-idempotency-and-retry-safe-side-effects-in-orchestrated-agent-workflows-f54b3d3909e0
 - X thread: https://x.com/GemechisWorku/status/2052109566360359293
+
+## External links DAY 3
+- Medium article: https://medium.com/@gemechisw/understanding-lora-configuration-for-preference-critics-beyond-the-defaults-047ee4690b16
+- X thread: https://x.com/GemechisWorku/status/2052433609353498777
