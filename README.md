@@ -51,3 +51,7 @@ This repository captures one full knowledge-gap exercise: from a technical quest
 ## External links DAY 3
 - Medium article: https://medium.com/@gemechisw/understanding-lora-configuration-for-preference-critics-beyond-the-defaults-047ee4690b16
 - X thread: https://x.com/GemechisWorku/status/2052433609353498777
+
+## External links DAY 4
+- Medium article: https://medium.com/@gemechisw/the-kappa-paradox-why-89-agreement-can-yield-a-kappa-of-zero-15e5bfe28ad1
+- X thread: https://x.com/GemechisWorku/status/2052811297410937006
