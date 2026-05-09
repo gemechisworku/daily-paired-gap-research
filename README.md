@@ -49,8 +49,3 @@ This repository captures a four-day paired gap-closing cycle: each day includes 
 2. https://x.com/GemechisWorku/status/2052109566360359293
 3. https://x.com/GemechisWorku/status/2052433609353498777
 4. https://x.com/GemechisWorku/status/2052811297410937006
-
-## Grounding Context Links
-
-- Week 10 project repo: https://github.com/gemechisworku/conversion-engine
-- Day 1 implementation commit: https://github.com/gemechisworku/conversion-engine/commit/d22003e02359ce8b4c77b793363e6ed2cf12fc78
